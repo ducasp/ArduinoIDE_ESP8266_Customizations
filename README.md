@@ -1,4 +1,7 @@
 # ArduinoIDE_ESP8266_Customizations
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R2BRGX6)
+
 Customizations I've made on ESP8266 library for Arduino IDE that I've used on a personal project
 
 Those customizations were made to:
